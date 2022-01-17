@@ -1,0 +1,16 @@
+C:\Users\28718\source\repos\Bypass\Bypass\obj\Debug\Bypass.csproj.AssemblyReference.cache
+C:\Users\28718\source\repos\Bypass\Bypass\obj\Debug\Bypass.Form1.resources
+C:\Users\28718\source\repos\Bypass\Bypass\obj\Debug\Bypass.Properties.Resources.resources
+C:\Users\28718\source\repos\Bypass\Bypass\obj\Debug\Bypass.csproj.GenerateResource.cache
+C:\Users\28718\source\repos\Bypass\Bypass\obj\Debug\Bypass.csproj.CoreCompileInputs.cache
+C:\Users\28718\source\repos\Bypass\Bypass\bin\Debug\Bypass.exe
+C:\Users\28718\source\repos\Bypass\Bypass\bin\Debug\Bypass.pdb
+C:\Users\28718\source\repos\Bypass\Bypass\obj\Debug\Bypass.exe
+C:\Users\28718\source\repos\Bypass\Bypass\obj\Debug\Bypass.pdb
+C:\Users\Administrator\Desktop\Bypass\Bypass\obj\Debug\Bypass.exe
+C:\Users\Administrator\Desktop\Bypass\Bypass\obj\Debug\Bypass.pdb
+C:\Users\Administrator\Desktop\Bypass\Bypass\bin\Debug\Bypass.exe
+C:\Users\Administrator\Desktop\Bypass\Bypass\bin\Debug\Bypass.pdb
+C:\Users\Administrator\Desktop\Bypass\Bypass\obj\Debug\Bypass.Form1.resources
+C:\Users\Administrator\Desktop\Bypass\Bypass\obj\Debug\Bypass.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Bypass\Bypass\obj\Debug\Bypass.csproj.GenerateResource.Cache
