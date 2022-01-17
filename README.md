@@ -3,7 +3,7 @@
 
 shellcode图片隐写分离 
 
-wmi检测硬件识别虚拟机  
+wmi检测硬件bypass虚拟机  
 
 loader代码生成   
 
